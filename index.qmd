@@ -1,0 +1,17 @@
+---
+title: "Welcome to My Website"
+author: "Iván Villasmil"
+date: "2025-09-13"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+
+# Hello, World! 
+Welcome to my Quarto website.
+
+## About Me
+- Business analytics student at BU MET
+- Exploring Python, R, and data mining
+- Building reproducible projects with Quarto
