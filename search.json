@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Welcome to my Quarto website.\n\n\n\nBusiness analytics student at BU MET\nExploring Python, R, and data mining\nBuilding reproducible projects with Quarto"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Business analytics student at BU MET\nExploring Python, R, and data mining\nBuilding reproducible projects with Quarto"
+  }
+]
