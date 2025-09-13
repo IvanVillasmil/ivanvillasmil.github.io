@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My Website",
-    "section": "",
-    "text": "Welcome to my Quarto website.\n\n\n\nBusiness analytics student at BU MET\nExploring Python, R, and data mining\nBuilding reproducible projects with Quarto"
-  },
-  {
-    "objectID": "index.html#about-this-site",
-    "href": "index.html#about-this-site",
-    "title": "Welcome to My Website",
-    "section": "",
-    "text": "Built with Quarto\nDesigned for showcasing analytics work\nModular and easy to update\n\nLearn more about Quarto— title: “ivanvillasmil.github.io” —\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Welcome to my Quarto website.\n\n\n\nBusiness analytics student at BU MET\nExploring Python, R, and data mining\nBuilding reproducible projects with Quarto"
   },
   {
     "objectID": "index.html#about-me",
